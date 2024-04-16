@@ -6,25 +6,25 @@ The United States healthcare system is characterized by a blend of cutting-edge 
 
 This research could help get some insights into health disparities, identify areas for improvement in healthcare access, and guide the development of targeted initiatives to address inequities and improve outcomes.
 
-The datasets were downloaded from public servers such as Kaggle, countyhealthrankings.org, and ahrq.gov, and they consist of a variety of information regarding population-specific differences in disease prevalence, health outcomes, access to healthcare services, and many more attributes, all at the state and county level.
+The datasets were downloaded from publically accessible websites such as Kaggle, countyhealthrankings.org, and ahrq.gov, and they consist of a variety of information regarding population-specific differences in disease prevalence, health outcomes, access to healthcare services, and many more attributes, all at the state and county level.
 
 
 ![sample Texas Data](hd_texas.png)
 
 ## Steps followed
 
-- [x] Downloaded open dataset from 
-- [x] Data analysis to identify areas for cleaning
-- [x] Data cleansing
-- [x] Data Transformation
-- [x] Report building
-- [ ] Testing & validation
-- [ ] Additional changes/improvements
-- [ ] Report publising
-
+- Downloaded open datasets 
+- Data analysis to identify areas for cleaning
+- Data cleansing
+- Data Transformation
+- Data Clustering
+- Report building
+- Testing & Validation
 
 
 ## To do
 
+- [ ] Further testing & validation
+- [ ] Additional changes/improvements
 - [ ] Publishing the report online at Tableau cloud
 - [x] Code comment
