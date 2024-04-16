@@ -16,7 +16,6 @@ The datasets were downloaded from publically accessible websites such as Kaggle,
 - Downloaded open datasets 
 - Data analysis to identify areas for cleaning
 - Data cleansing
-- Data Transformation
 - Data Clustering
 - Report building
 - Testing & Validation
@@ -27,4 +26,3 @@ The datasets were downloaded from publically accessible websites such as Kaggle,
 - [ ] Further testing & validation
 - [ ] Additional changes/improvements
 - [ ] Publishing the report online at Tableau cloud
-- [x] Code comment
